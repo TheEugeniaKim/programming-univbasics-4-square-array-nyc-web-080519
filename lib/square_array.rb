@@ -6,7 +6,7 @@ def square_array(array)
     newarray.push(array[counter]**2)
     counter += 1
   end
-  return puts newarray
+  return p newarray
 end
 
 
